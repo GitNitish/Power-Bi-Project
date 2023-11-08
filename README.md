@@ -2,7 +2,7 @@ Description:
 This repository contains a collection of Power BI reports exported in PDF format for easy sharing and distribution. These reports are designed to provide insightful visualizations and analysis of various data sets.
 
 Contents:
-Report 1 - Sales Performance Dashboard
+Report 1 - Sales Performance Report
 
 Description: This report provides a comprehensive overview of sales performance, including key metrics, trends, and comparisons.
 
