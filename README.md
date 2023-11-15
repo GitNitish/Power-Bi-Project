@@ -6,6 +6,10 @@ Report 1 - Sales Performance Report
 
 Description: This report provides a comprehensive overview of sales performance, including key metrics, trends, and comparisons.
 
+Report 2 - Score Report
+
+Description: This report provides insights in scored marks of candidates based on various metrics and comparison.
+
 Click on the desired report file to download the PDF.
 Viewing Reports:
 
